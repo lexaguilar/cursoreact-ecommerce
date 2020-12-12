@@ -1,5 +1,5 @@
 # Getting Started with Create React App
- npm install
+### `npm install`
 
 
 In the project directory, you can run:
