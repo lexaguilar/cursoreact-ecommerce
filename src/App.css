@@ -1,0 +1,75 @@
+.App-link {
+    color: #61dafb;
+}
+
+.card {
+    margin: 15px;
+    padding: 10px;
+    width: 200px;
+    box-shadow: 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.row {
+    width: 50%;
+}
+
+.row-add {
+    width: 30%;
+}
+
+.row-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    font-size: 18px;
+}
+
+.item-button {
+    margin: 0 5px;
+}
+
+.price-line-through {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.footer {
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+}
+
+ul>li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+ul>li>a {
+    text-decoration: none;
+}
+
+.w100 {
+    width: 100%;
+    display: flex;
+}
+
+.w60 {
+    width: 60%;
+}
+
+.w40 {
+    width: 35%;
+}
+
+.container {
+    margin: 0 50px;
+}
